@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Inter";
+    src: url("https://fonts.google.com/specimen/Inter");
+}
+
+@font-face {
+    font-family: "Lexend Deca";
+    src: url("https://fonts.google.com/specimen/Lexend+Deca");
+}
+
+body {
+    background-color: hsl(233, 47%, 7%);
+    color: hsl(0, 0%, 100%);
+    font-size: 15px;
+}
+
+.container {
+    background-color: hsl(244, 38%, 16%);
+}
